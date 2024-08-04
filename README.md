@@ -58,19 +58,3 @@ The dataset used in this project is sourced from The World Bank and contains inf
 ## Conclusion
 
 Through this analysis, we have gained valuable insights into the debt burden of developing countries and identified key factors influencing their borrowing and repayment activities. The findings can help policymakers and economists better understand international debt dynamics and inform strategies for sustainable economic development.
-
-## Requirements
-
-- Python 3.x
-- Pandas
-- Jupyter Notebook (optional for interactive analysis)
-
-## How to Run
-
-1. Clone this repository.
-2. Install the required packages.
-3. Load the dataset and run the analysis scripts to explore the data and generate insights.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
